@@ -20,7 +20,7 @@ URL: https://github.com/marcoscosta-cloud/certificados
 Change the SERVER constant in the config.js with your full address of the certificates files.
 
 ```javascript
-const SERVER = "https://github.com/marcoscosta-cloud/certificados-repo/tree/main/files/"; 
+const SERVER = "https://github.com/marcoscosta-cloud/certificados/tree/main/files/"; 
 ```
 
 Change the FILENAME constant in the config.js with your certificates list in CSV format.
