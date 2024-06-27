@@ -8,7 +8,7 @@ Repositório com certificados de cursos, eventos e capacitações.
 
 Certificates management using JavaScript on Github Pages with PDF download and keyword search on datatables.
 
-URL: https://github.com/marcoscosta-cloud/certificados
+URL: https://marcoscosta-cloud.github.io/certificados/
 
 ![GitHub followers](https://img.shields.io/github/followers/marcoscosta-cloud?style=social)
 <a href="https://www.linkedin.com/in/marcospcosta/">
