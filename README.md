@@ -1,7 +1,7 @@
 # Certificados
 
 <a href="https://marcoscosta-cloud.github.io/certificados/" target="_blank">
-    <img src="./images/visual.png">
+    <img src="./images/visual2.png">
 </a>
 
 Repositório com certificados de cursos, eventos e capacitações.
