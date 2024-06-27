@@ -1,5 +1,5 @@
 // Change the URL of the server and the filename of the csv
 const FILENAME = "certificados.csv";
-const SERVER = "https://github.com/marcoscosta-cloud/certificados-repo/tree/main/files/";
+const SERVER = "https://github.com/marcoscosta-cloud/certificados-repo/files/";
 
 const FULLURL = SERVER.concat(FILENAME);
