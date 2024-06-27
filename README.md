@@ -12,7 +12,7 @@ URL: https://marcoscosta-cloud.github.io/certificados/
 
 ![GitHub followers](https://img.shields.io/github/followers/marcoscosta-cloud?style=social)
 <a href="https://www.linkedin.com/in/marcospcosta/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgemaia/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospcosta/">
 </a>
 
 ## USAGE
