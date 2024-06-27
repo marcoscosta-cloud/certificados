@@ -1,6 +1,6 @@
 # Certificados
 
-<a href="https://github.com/marcoscosta-cloud/certificados" target="_blank">
+<a href="https://marcoscosta-cloud.github.io/certificados/" target="_blank">
     <img src="./images/visual.png">
 </a>
 
